@@ -1,0 +1,14 @@
+{
+  "repo": "mubit",
+  "feeds": [
+    {
+      "source": "https://mubit.co",
+      "feed_url": "https://mubit.co/blog/feed/",
+      "title": "",
+      "saved": 3,
+      "method": "discovered"
+    }
+  ],
+  "post_count": 3,
+  "fetched": "2026-07-25T15:00:33Z"
+}
